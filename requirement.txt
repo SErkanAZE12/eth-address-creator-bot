@@ -1,0 +1,4 @@
+telebot
+web3
+eth_account
+langid
